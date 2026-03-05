@@ -2,6 +2,9 @@
 
 A simple Bash script that analyzes basic Linux server performance stats.
 
+Project URL:  
+https://roadmap.sh/projects/server-stats
+
 ## What it shows
 
 - Total CPU usage
